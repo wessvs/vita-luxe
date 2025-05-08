@@ -1,0 +1,377 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>FUEL YOUR HEALTH WITH PRECISION<\/strong>",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_5.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "adapt",
+        "image_behavior": "none",
+        "desktop_content_position": "top-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": false,
+        "color_scheme": "scheme-1",
+        "stack_images_on_mobile": false,
+        "mobile_content_alignment": "center",
+        "show_text_below": false
+      }
+    },
+    "multicolumn_qtU9BQ": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_DRNQph": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group.svg",
+            "title": "<strong>HIGH-QUALITY<\/strong>",
+            "text": "<p>Science-Backed Formulas<br\/><br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6nVA83": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_24.png",
+            "title": "<strong>BY HEALTHCARE PROVIDERS<\/strong>",
+            "text": "<p>Experts in cardiovascular health<br\/><br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TTHykX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ingredients_1_1.png",
+            "title": "<strong>PREMIUM INGREDIENTS<\/strong>",
+            "text": "<p>High Quality, Pure and Potent <br\/><br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_DRNQph",
+        "column_6nVA83",
+        "column_TTHykX"
+      ],
+      "custom_css": [],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "button_label": "",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection_7yCA4j": {
+      "type": "featured-collection",
+      "name": "t:sections.featured-collection.presets.name",
+      "settings": {
+        "collection": "vitamins",
+        "products_to_show": 4,
+        "title": "<strong>Endless Support for Every Health Journey<\/strong>",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "columns_desktop": 2,
+        "enable_desktop_slider": false,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "color_scheme": "scheme-2",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "image_with_text_VxGQCw": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_3yNHHf": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Boost Your Health. Save While You Thrive<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_YfRcFL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Health is a journey, not a one-time event. Get consistent support with our Subscribe and Save option, delivering up to 15% off every order to keep you on track and feeling your best.<br\/><br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_jNa6MQ": {
+          "type": "button",
+          "settings": {
+            "button_label": "GET A SUBSCRIPTION",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_3yNHHf",
+        "text_YfRcFL",
+        "button_jNa6MQ"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_7.jpg",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "",
+        "color_scheme": "scheme-3",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_NJUk6N": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_9xfKAG": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Essentials for Thriving Health",
+            "heading_size": "h1"
+          }
+        },
+        "text_j6eaVU": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From energy to recovery, we’ve got your back—and every other muscle, joint, and cell in between.<br\/><br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_eckxxg": {
+          "type": "button",
+          "settings": {
+            "button_label": "GET A SUBSCRIPTION",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_9xfKAG",
+        "text_j6eaVU",
+        "button_eckxxg"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_10.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "right",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "scheme-4",
+        "color_scheme": "scheme-4",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "image_with_text_TMXRFG": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_TArTpd": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Every Health Journey Needs a Trusted Partner<\/strong>",
+            "heading_size": "h1"
+          }
+        },
+        "text_gnhTeL": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We believe wellness starts with knowledge. That’s why we’re here to empower you with transparent, science-backed information on every product we make. Your health deserves the best.<br\/><br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_G73ycJ": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE ABOUT US",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_TArTpd",
+        "text_gnhTeL",
+        "button_G73ycJ"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/retired-senior-man-sitting-fitness-swiss-ball-living-room-doing-wellness-fitness-workout-streching-arm-muscles-using-aerobics-elastic-band.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "left",
+        "section_color_scheme": "scheme-2",
+        "color_scheme": "scheme-2",
+        "padding_top": 52,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_FjEK77": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nXU6bP": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sustainably Sourced Krill Oil",
+            "heading_size": "hxl"
+          }
+        },
+        "text_nmDEjK": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_FHEFbe": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE ABOUT US",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_nXU6bP",
+        "text_nmDEjK",
+        "button_FHEFbe"
+      ],
+      "disabled": true,
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Vector_1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "image_behavior": "none",
+        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "mobile_content_alignment": "center",
+        "section_color_scheme": "scheme-1",
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_trJHdb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_hqw76a": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sustainably Sourced Krill Oil",
+            "heading_size": "h1"
+          }
+        },
+        "text_pKddXB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our formula is three times more absorbable than standard fish oil, ensuring your body gets the nutrients it needs for optimal cardiovascular, joint, and brain health.<br\/><br\/><\/p>"
+          }
+        },
+        "button_UyRty4": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE ABOUT US",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_hqw76a",
+        "text_pKddXB",
+        "button_UyRty4"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "right",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "multicolumn_qtU9BQ",
+    "featured_collection_7yCA4j",
+    "image_with_text_VxGQCw",
+    "image_with_text_NJUk6N",
+    "image_with_text_TMXRFG",
+    "image_with_text_FjEK77",
+    "rich_text_trJHdb"
+  ]
+}
