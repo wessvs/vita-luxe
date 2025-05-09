@@ -79,7 +79,7 @@
 .page-width {
   max-width: var(--page-width);
   margin: 0 auto;
-  padding: 0 1.5rem;
+  padding: 0 4rem;
 }
 
 body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
@@ -1125,6 +1125,18 @@ summary::-webkit-details-marker {
   height: 100%;
   width: 100%;
 }
+
+.media.home-banner__media > *:not(.zoom):not(.deferred-media__poster-button) {
+  max-width: 100vw;
+  max-height: 100vh;
+  object-fit: cover;
+  object-position: bottom;
+}
+
+.home-banner__media.media {
+  height: fit-content;
+  max-height: 100vh;
+} 
 
 .media > img {
   object-fit: cover;
